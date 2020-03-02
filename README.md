@@ -1,6 +1,6 @@
 # LFI-Box
 LFI-Box is a Vulnerable lab developed and maintained by Touhid Shaikh.
-LFI stands for Local File Inclusion. LFI is a type of web-application security vulnerability. LFI is only one of many web-application security vulnerabilities
+LFI stands for Local File Inclusion, it is a type of web-application security vulnerability.
 
 #To Pull Image on your system ->
 docker pull ronit0x0/lfi-box
